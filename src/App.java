@@ -1,6 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        Integer [] numArray = {10,2,8,3,1,5,9,14,6};
+        Integer [] numArray = {10,2,3,5}; //original testcase
+        // Integer [] numArray = {7,2,8,3,1,5,9,14,6};
         int biggest = numArray[0];
         int smallest = numArray[0];
 
